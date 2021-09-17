@@ -1,7 +1,7 @@
 # HW3-Fall21
 Homework 3 for Fall 2021
 
-Clone this repo to your computer
+1. Clone this repo to your computer
 
      1) Open the terminal window and change directory (cd) to where you want to put the repository
 
