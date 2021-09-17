@@ -23,8 +23,8 @@ Homework 3 for Fall 2021
 
 4. When you are finished push your local changes to your github repository.  This is where we will grade it.  We have access to it even if it is a private repository.  You can do this more than once.
 
-  1) open a terminal and change directory to your local repo
+    1) open a terminal and change directory to your local repo
 
-  2) git push 
+    2) git push 
 
 5. Add a link to your github repository here on canvas by the turn in date.
