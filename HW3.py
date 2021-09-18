@@ -103,7 +103,7 @@ def test():
     print()
 
     print("Giving the name: Mike")
-    print(bot2.check_name("Mike"))
+    print(bot2.name_list("Mike"))
     print()
 
     print("Printing the history")
